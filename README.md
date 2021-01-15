@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on teaching
+- 🔭 I’m currently working on some fun side projects :)
 <!--
 **juliewang2020/juliewang2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
